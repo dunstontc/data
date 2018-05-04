@@ -1,0 +1,23 @@
+#   ┌─┐┬┌┬┐┬┌─┐┌┐┌┌─┐┬─┐┌─┐
+#   │ ┬│ │ ││ ┬││││ │├┬┘├┤
+#  o└─┘┴ ┴ ┴└─┘┘└┘└─┘┴└─└─┘
+
+# Mac files
+.DS_store
+
+# dependencies
+node_modules/*
+bower_components/*
+vendor/*
+
+# Local files
+.env
+ignore/*
+
+# Misc.
+!.gitkeep
+.idea
+.vscode
+*/tags
+
+
