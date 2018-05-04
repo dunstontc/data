@@ -26,7 +26,6 @@
 - [cdc.gov](https://wonder.cdc.gov/)
 - [bls.gov](https://www.bls.gov/data/)
 
-
 ## Code
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine)
   - OpenRefine is a free, open source power tool for working with messy data and improving it.
